@@ -5,6 +5,4 @@ public class base {
     public void display() {
         System.out.println("This is the base class.");
     }
-
-    //Ravi kiran testing
 }
