@@ -1,0 +1,31 @@
+<suite name="Suite">
+    <test name="Test">
+        <classes>
+<!--            <class name="testcases.TC_15GoogleDIsplayed"/>-->
+            <class name="testcases.TC_2Bikes"/>
+<!--            <class name="testcases.TC_3UpcomingDisplayed"/>-->
+<!--            <class name="testcases.TC_4AllBksUndr5lkhs"/>-->
+<!--            <class name="testcases.TC_5AllBksRylEnField"/>-->
+<!--            <class name="testcases.TC_7AlrtMe"/>-->
+            <class name="testcases.TC_6AllBikes"/>
+            <class name="testcases.TC_8Cars"/>
+<!--            <class name="testcases.TC_9CarsURL"/>-->
+<!--            <class name="testcases.TC_10Location"/>-->
+<!--            <class name="testcases.TC_11UsedCarsInChennai"/>-->
+<!--            <class name="testcases.TC_15GoogleDIsplayed"/>-->
+<!--            <class name="testcases.TC_16VEmailInPwd"/>-->
+<!--            <class name="testcases.TC_17InvalidEmail"/>-->
+<!--            <class name="testcases.TC_18InvalidPhNo"/>-->
+<!--            <class name="testcases.TC_19VPhnoInvalidPwd"/>-->
+        </classes>
+
+    </test>
+</suite>
+
+<!--<suite name="Parallel Suite" parallel="methods" thread-count="5">-->
+<!--<test name="All Test Cases">-->
+<!--    <packages>-->
+<!--        <package name="testcases"/>-->
+<!--    </packages>-->
+<!--</test>-->
+<!--</suite>-->
